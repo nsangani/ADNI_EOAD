@@ -8,7 +8,7 @@ lapply(packages, library, character.only = TRUE)
 
 # Assign datasets and project 
 # 1.
-datasetDir <- "C:/Users/sanga/OneDrive/Desktop/Research/Dr. Apostolova Lab/MPRAGE/IMAGENE" # Change Directory to your data
+datasetDir <- "MPRAGE/IMAGENE" # Change Directory to your data
 setwd(datasetDir)
 # 2.
 dataset_name <- "IAMGENE" # Provide name of your study and/or dataset
