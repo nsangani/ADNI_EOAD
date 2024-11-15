@@ -1,3 +1,1 @@
-# ADNI_EOAD
-
-MRI nifti files are recon-ed using freesurfer. The freesurfer output can be used directly with Qoala-T QC tool which utilizes supervised machine learning to assess the quality of the scans. The output shows the score of each scan and with recommendation to perform manual QC before recon again. 
+Qoala-T is an advanced supervised-learning tool that streamlines quality assessment of MRI scans processed with FreeSurfer. By leveraging features extracted from FreeSurfer outputs, Qoala-T predicts the quality of automated segmentations, identifying scans that may require further manual inspection. This innovative tool enhances the efficiency and reliability of quality control processes, particularly in large-scale neuroimaging studies, by providing consistent and reproducible evaluations of scan quality.
