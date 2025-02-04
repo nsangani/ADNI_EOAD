@@ -58,5 +58,6 @@ with open('dcm2nii_pet_IMAGENE.sh', 'a') as script_file:
         
         # Write the dcm2niix to filename
         script_file.write('dcm2niix ' + i + '\n')
-            
+
+# Execute the files generated using bash or submit the jobs directly to slurm system. 
         
