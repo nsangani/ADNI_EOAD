@@ -1,1 +1,3 @@
 Qoala-T is an advanced supervised-learning tool that streamlines quality assessment of MRI scans processed with FreeSurfer. By leveraging features extracted from FreeSurfer outputs, Qoala-T predicts the quality of automated segmentations, identifying scans that may require further manual inspection. This innovative tool enhances the efficiency and reliability of quality control processes, particularly in large-scale neuroimaging studies, by providing consistent and reproducible evaluations of scan quality.
+
+Klapwijk, Eduard T., et al. "Qoala-T: A supervised-learning tool for quality control of FreeSurfer segmented MRI data." Neuroimage 189 (2019): 116-129.
